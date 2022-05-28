@@ -1,0 +1,46 @@
+/*color palette
+Paleviolated #DB7093
+Pink #FFC0CB */
+/*global styles
+-----------------------------------*/
+body{
+    color:#343434;
+
+}
+a{
+    color: #483D8B;
+}
+a:hover{
+    text-decoration: none;
+/*padding: 8px;
+    border-radius: 4px;*/
+}
+img{
+    width:300px;
+}
+
+
+
+
+/*profile
+-------------------------------------*/
+Header{
+    background: #db7093;
+}
+/*projects
+--------------------------------------*/
+.projects{
+    background-color: #ffc0cb;
+}
+
+/* Education
+----------------------------------------*/
+.education{
+    background-color: #db7093;
+}
+
+/* Contact Info
+-----------------------------------------*/
+footer{
+    background-color: #ffc0cb;
+}
